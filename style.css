@@ -13,7 +13,7 @@ section{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #1867;
+    background: #111;
     overflow: hidden;
 }
 section::before{
